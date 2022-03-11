@@ -1,0 +1,26 @@
+.skillsBlock{
+    min-height: 100vh;
+    background-color: darkslategray;
+}
+
+.skillsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid black;
+    flex-wrap: wrap;
+
+}
+
+.title{
+    background-color: blue;
+}
+
+.skills {
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

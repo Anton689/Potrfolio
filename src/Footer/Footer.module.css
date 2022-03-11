@@ -1,0 +1,20 @@
+.container{
+    min-height: 50vh;
+    background-color: #446510;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid black;
+
+}
+
+.localBlock{
+    display: flex;
+    min-width: 100px;
+    border: 1px solid black;
+    flex-wrap: wrap;
+}

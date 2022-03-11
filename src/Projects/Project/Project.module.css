@@ -1,0 +1,22 @@
+.projectContainer {
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.projectBlock {
+    height: 50%;
+    width: 100%;
+    /*background-image: url("");*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.textBlock {
+
+}

@@ -1,0 +1,14 @@
+.hireContainer {
+    min-height:20vh;
+    background-color: yellow ;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid black;
+    flex-wrap: wrap;
+
+}
